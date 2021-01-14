@@ -2,7 +2,7 @@
 
 # This script simply updates Git to its current version
 
-echo "Its updating..."
+echo "It's beginning to update..."
 echo " "
 sudo add-apt-repository ppa:git-core/ppa
 sudo apt update
