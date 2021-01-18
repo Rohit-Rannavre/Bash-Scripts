@@ -12,6 +12,9 @@
 ## Math Scripts:
 * [calulator.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/calculator.sh)
 * [add_two_numbers.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/add_two_numbers.sh)
+* [substract_two_numbers.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/substract_two_numbers.sh)
+* [divide_two_numbers.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/divide_two_numbers.sh)
+* [multiply_two_numbers.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/multiply_two_numbers.sh)
 
 ## Update Scripts:
 * [update_git.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/update_git.sh)
