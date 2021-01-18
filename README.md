@@ -19,3 +19,6 @@
 ## Update Scripts:
 * [update_git.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/update_git.sh)
 * [update_system.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/update_system.sh)
+
+## Fun Scripts:
+* [spinner.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/spinner.sh)
