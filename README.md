@@ -7,7 +7,7 @@
 ## Simple Scripts:
 * [file_exit.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/file_exist.sh)
 * [mkdir_by_checking_existance.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/mkdir_by_checking_existance.sh)
-* [delete.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/delete_file.sh)
+* [delete_file.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/delete_file.sh)
 
 ## Math Scripts:
 * [calulator.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/calculator.sh)
