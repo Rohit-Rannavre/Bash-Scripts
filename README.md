@@ -4,21 +4,22 @@
 # Bash-Scripts :star:
 :zap: This repository contains a collection of simple bash scripts.
 
-## Simple Scripts:
+## Getting started:
 * [file_exits.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/file_exist.sh): To find out if a given file exists or not.
 * [mkdir_by_checking_existance.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/mkdir_by_checking_existance.sh): To create a directory by checking its existance.
 * [delete_file.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/delete_file.sh): To delete a given file.
+* [dir-size.sh](https://github.com/Rohit-Rannavre/Basic-Bash-Scripts/blob/master/dir-size.sh): To find out the size of a directory.
 
-## Math Scripts:
+## Math scripts:
 * [calulator.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/calculator.sh): A simple calculator for addition, substraction, multiplication and division.
 * [add_two_numbers.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/add_two_numbers.sh): To add two numbers.
 * [substract_two_numbers.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/substract_two_numbers.sh): To substract two numbers.
 * [divide_two_numbers.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/divide_two_numbers.sh): To divide two numbers.
 * [multiply_two_numbers.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/multiply_two_numbers.sh): To multiply two numbers.
 
-## Update Scripts:
+## Update scripts:
 * [update_git.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/update_git.sh): To update Git to its latest version.
 * [update_system.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/update_system.sh): To update, upgrade and remove dependencies from your sysytem.
 
-## Fun Scripts:
+## Fun scripts:
 * [spinner.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/spinner.sh): A fun script to spin a charecter/number.
