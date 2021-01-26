@@ -23,3 +23,4 @@
 
 ## Fun scripts:
 * [spinner.sh](https://github.com/Rohit-Rannavre/Bash-Scripts/blob/master/spinner.sh): A fun script to spin a charecter/number.
+* [color.sh](https://github.com/Rohit-Rannavre/Basic-Bash-Scripts/blob/master/color.sh): To print a name in different colors.
